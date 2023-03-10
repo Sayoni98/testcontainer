@@ -1,3 +1,3 @@
 FROM centos
-RUN echo "Testing project2">/tmp/testfile
+RUN echo "Dying to implement">/tmp/testfile
 EXPOSE 80
