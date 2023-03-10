@@ -1,3 +1,3 @@
 FROM centos
-RUN echo "Test docker">/tmp/testfile
+RUN echo "Testing project2">/tmp/testfile
 EXPOSE 80
